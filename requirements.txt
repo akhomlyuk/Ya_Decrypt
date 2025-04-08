@@ -1,0 +1,4 @@
+rsa~=4.9
+pycryptodome~=3.22.0
+icecream~=2.1.4
+pywin32
