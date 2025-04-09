@@ -12,3 +12,5 @@ python main.py
 ```
 
 ![img.png](img.png)
+
+Thx @Goodies365 for the Golang version https://github.com/Goodies365/YandexDecrypt
