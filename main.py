@@ -171,7 +171,7 @@ def print_credentials(path):
         try:
             sealed_keys_info = get_sealed_key(conn)
             if sealed_keys_info:
-                master_password = 'Tblade1212'
+                master_password = input('Enter master password:')
                 try:
                     decrypt_key = decrypt_rsa_oaep(
                         master_password,

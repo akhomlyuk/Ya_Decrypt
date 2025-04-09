@@ -1,6 +1,6 @@
 Tg: https://t.me/wh_lab
 
-v 0.0.1 alpha :)
+v 0.0.2 alpha :)
 
 ```commandline
 git clone https://github.com/akhomlyuk/Ya_Decrypt.git
