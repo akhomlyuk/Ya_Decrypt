@@ -1,6 +1,8 @@
 Tg: https://t.me/wh_lab
 
-v 0.0.2 alpha :)
+v0.0.3
+
+If you wanna get debug info, just comment ic.disable() on the 14 line
 
 ```commandline
 git clone https://github.com/akhomlyuk/Ya_Decrypt.git
